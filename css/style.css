@@ -11,7 +11,7 @@ body{
 }
 .container{
     width: 250px;
-    margin-left: 20px ;
+    margin: auto ;
 }
 .box-1{
     background-color: #555555;
