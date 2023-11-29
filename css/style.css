@@ -9,6 +9,10 @@ body{
     
     line-height: 1.5em
 }
+.container{
+    width: 250px;
+    margin-left: 20px ;
+}
 .box-1{
     background-color: #555555;
     color: #f4f4f4;
