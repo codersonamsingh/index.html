@@ -23,6 +23,8 @@ body{
     padding-left: 20px;
 
     padding-right: 20px;
+
+    margin-top: 20px;
 }
 .box-1 h1{
     color: red;
@@ -36,4 +38,9 @@ body{
     text-decoration: dotted;
 
 
+}
+.box-2{
+    border: 3px dotted #ccc;
+    padding: 20px;
+    margin: 20px 0 20px 0;
 }
