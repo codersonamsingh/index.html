@@ -31,6 +31,9 @@ body{
     font-style: italic;
     text-decoration: underline;
     text-transform: uppercase;
+    letter-spacing: 0.1em;
+    word-spacing: 1em;
+    text-decoration: dotted;
 
 
 }
