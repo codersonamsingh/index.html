@@ -13,6 +13,20 @@ body{
     width: 250px;
     margin: auto ;
 }
+a{
+    text-decoration: none;
+    color: #555555;
+}
+a:hover{
+    font-size: 20px;
+    color: aqua;
+}
+.box-1
+
+
+
+
+
 .box-1{
     background-color: #555555;
     color: #f4f4f4;
