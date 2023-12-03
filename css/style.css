@@ -22,9 +22,9 @@ a:hover{
     color: aqua;
 }
 
-
-
-
+a:active{
+    color: red;
+}
 
 
 .box-1{
@@ -73,3 +73,14 @@ a:hover{
     list-style: square;
     list-style: none;
 }
+.cate li{
+    padding-bottom: 7px;
+    border-bottom: dotted 1px #333;
+}
+
+
+
+
+
+
+
