@@ -56,4 +56,6 @@ body{
 }
 .cate ol{
     padding: 7px;
+    list-style: square;
+    list-style: none;
 }
