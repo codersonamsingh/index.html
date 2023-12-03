@@ -54,3 +54,6 @@ body{
 .cate h2{
     text-align: center;
 }
+.cate ol{
+    padding: 7px;
+}
