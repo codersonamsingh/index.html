@@ -94,7 +94,7 @@ a:active{
     display: block;
 }
 
-.my-form input{
+.my-form input [type="text"]{
     padding:8px;
     width:100%;
 }
