@@ -99,9 +99,8 @@ a:active{
     width:100%;
 }
 
-
-
-
-
-
-
+.block{
+    float:left ;
+    width: 25%;
+    
+}
