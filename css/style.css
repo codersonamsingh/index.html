@@ -13,6 +13,11 @@ body{
     width: 250px;
     margin: auto ;
 }
+.clear{
+    clear: both;
+}
+
+
 a{
     text-decoration: none;
     color: #555555;
