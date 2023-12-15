@@ -114,5 +114,12 @@ a:active{
 
 #main-block{
     float: left;
-    
+    width: 70%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    float: left;
+    width: 70%;
 }
