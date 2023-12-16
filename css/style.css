@@ -132,3 +132,7 @@ a:active{
     height: 600px;
     border: 1px solid #000;
 }
+.fix{
+    position: fixed;
+    top:250px;
+}
