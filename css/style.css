@@ -127,3 +127,8 @@ a:active{
     color: #fff;
     padding: 15px;
 }
+.v-box{
+    width: 800px;
+    height: 600px;
+    border: 1 px solid #000;
+}
