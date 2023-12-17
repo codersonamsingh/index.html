@@ -139,3 +139,13 @@ a:active{
     color: #fff;
     padding: 10px 15px;
 }
+.my-ul li:first-child{
+    background: red;
+}
+.my-ul li:first-child{
+    background: red;
+}.my-ul li:first-child{
+    background: red;
+}.my-ul li:first-child{
+    background: red;
+}
