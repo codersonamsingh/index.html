@@ -142,9 +142,9 @@ a:active{
 .my-ul li:first-child{
     background: red;
 }
-.my-ul li:first-child{
-    background: red;
-}.my-ul li:first-child{
+.my-ul li:last-child{
+    background: green;
+}.my-ul li:nth-child{
     background: red;
 }.my-ul li:first-child{
     background: red;
