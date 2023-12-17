@@ -144,8 +144,8 @@ a:active{
 }
 .my-ul li:last-child{
     background: green;
-}.my-ul li:nth-child{
+}.my-ul li:nth-child(4){
     background: red;
-}.my-ul li:first-child{
-    background: red;
+}.my-ul li:nth-child(3){
+    background: white;
 }
